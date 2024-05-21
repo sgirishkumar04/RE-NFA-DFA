@@ -367,8 +367,3 @@ for state_index, state in enumerate(dfa_states):
 
     # Add a newline for clarity
     print()
-
-# Additional code snippet provided by the user
-
-# <insert the code snippet here>
-# Additional code snippet provided by the user
