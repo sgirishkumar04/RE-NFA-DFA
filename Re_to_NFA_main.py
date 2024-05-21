@@ -247,7 +247,6 @@ if __name__ == "__main__":
     fa = compute_regex(et)
     arrange_nfa(fa)
     
-    # Specify the filename here
     output_filename = "output.json"
     
     output_nfa_to_json(output_filename)
